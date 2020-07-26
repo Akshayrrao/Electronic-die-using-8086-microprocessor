@@ -44,5 +44,5 @@ Next we run the .exe file
 
 For executing hardware programs you need to assign permissions and then execute the program similar to software program.
 
-
+Thank you...
 
