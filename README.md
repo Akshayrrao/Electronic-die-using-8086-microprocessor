@@ -14,7 +14,7 @@ Electronic dice is an Assembly program written to simulate the behaviour of the 
 The software program has two options. One is to roll the dice and another is to stop the simulation. The software program just displays the result on the screen. 
 
 #### Output:-
-![software Output](https://github.com/Akshayrrao/Electronic-die-using-8086-microprocessor/blob/master/img/hardwareoutput.png?raw=true)
+![software Output](img/hardwareoutput.png)
 
 
 ### Hardware Program
@@ -23,7 +23,7 @@ The Hardware program uses the 7 segment display to display the result. We need t
 
 #### Output:-
 
-![Hardware Output](https://github.com/Akshayrrao/Electronic-die-using-8086-microprocessor/blob/master/img/softwareoutput.png?raw=true)
+![Hardware Output](img/softwareoutput.png)
 
 ## Execution
 ****
